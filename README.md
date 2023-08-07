@@ -1,1 +1,1 @@
-## k8s Study with Kubernetes official document
+## k8s Study
